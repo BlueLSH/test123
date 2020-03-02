@@ -19,5 +19,6 @@ public class myTest{
         
         String phrase = wordListOne[rand1] + " " + wordListTwo[rand2] + " " + wordListThree[rand3];
         System.out.print(phrase);
+        System.out.print("aaa");
 	}
 }
